@@ -4,10 +4,10 @@
 
 City: Calgary, AB
 
-A sample of 4,000 residential properties in Calgary, AB, Canada is in file "sampel_property_value.csv". One interesting research topic that can be attempted here is: how is investment on residential properties affected by macro- as well as micro-economic factors, from 2017 to 2020?
+A sample of 4,000 residential properties in Calgary, AB, Canada is in file <em>"sampel_property_value.csv"</em>. One interesting research topic that can be attempted here is: how is investment on residential properties affected by macro- as well as micro-economic factors, from 2017 to 2020?
 
 
-macro-economic factors that influence all property values, regardless of property-specific details such as # of drm's or location, in file "econ.csv", include:
+macro-economic factors that influence all property values, regardless of property-specific details such as # of bdr's or location, in file "econ.csv", include:
 	inf1=inflation
 	mor1=mortgage rate 5 year
 
