@@ -47,9 +47,9 @@ Four academic articles have been provided as reference. Some key messeges are:
 <h3>Research of interest:</h3>
 <p>The primary variable of interest is the Assessment Value. Alternatively, it can be return of investment on properties, as calculated by <br>
 〖Return〗_t=〖Assessment Value〗_t/〖Assessment Value〗_(t-1) -1 <br>
-The explanatory variables, or factors, can be grouped into three categories: 
-(1) macroeconomic variables: interest rate (mortgage5y) and inflation, that pertain to all properties. They have a time dimension, but not a geographic dimension. These two variables can be linked with other variables by “Year”.   
-(2) geographic related variables: demographics and the safety variables that may or may not have time dimension but have geographic dimension. Demographic information comes from a Census conducted in the year of 2016. For the purpose of this study, we can assume no demographic change has occurred to each FSA since then. Safety data has both time (Year) and geographic (FSA, forward sortation areas) dimensions.
+The explanatory variables, or factors, can be grouped into three categories: <br>
+(1) macroeconomic variables: interest rate (mortgage5y) and inflation, that pertain to all properties. They have a time dimension, but not a geographic dimension. These two variables can be linked with other variables by “Year”.   <br>
+(2) geographic related variables: demographics and the safety variables that may or may not have time dimension but have geographic dimension. Demographic information comes from a Census conducted in the year of 2016. For the purpose of this study, we can assume no demographic change has occurred to each FSA since then. Safety data has both time (Year) and geographic (FSA, forward sortation areas) dimensions.<br>
 (3) Properties specific variables. This sample dataset does not have many such variable, except maybe “Year of Construction”. Know that each property’s geographic association with FSA has been calculated and given in “fsa” column. 
 </p>
 <p>
