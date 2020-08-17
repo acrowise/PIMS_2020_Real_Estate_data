@@ -1,0 +1,39 @@
+demographics:
+
+	pop1=Population, 2016
+	pop2=Total private dwellings
+	pop3=Private dwellings occupied by usual residents
+	pop4=Total - Distribution (%) of the population by broad age groups, 0 to 14 years + 65 years and over
+	pop5=Total - Distribution (%) of the population by broad age groups, 15 to 64 years
+	pop6= Median age of the population
+	
+	lan1=Total - Mother tongue for the total population excluding institutional residents, Official languages %
+	lan2=Total - Mother tongue for the total population excluding institutional residents, Non-official languages %
+
+	inc1=Median total income in 2015 among recipients ($)
+	inc2=Number of employment income recipients aged 15 years and over in private households
+	inc3=Median employment income in 2015 among recipients ($)
+	inc4=Median total income of households in 2015 ($)
+
+	own1=Total - Owner households in non-farm, non-reserve private dwellings, % of owner households with a mortgage
+	own2=Total - Owner households in non-farm, non-reserve private dwellings, % of owner households spending 30% or more of its income on shelter costs
+	own3=Total - Tenant households in non-farm, non-reserve private dwellings, % of tenant households in subsidized housing
+	own4=Total - Owner households/(Total - Owner households + Total - Tenant households)
+
+	lab1=Labor Participation rate
+	lab2=Unemployment rate
+	lab3=Total population aged 15 years and over by work activity during the reference year, % Did not work
+
+safety:
+	saf1='Assault (Non-domestic)', 
+	saf2='Break & Enter - Commercial',
+        saf3='Break & Enter - Dwelling', 
+	saf4='Break & Enter - Other Premises',
+        saf5='Commercial Robbery', 
+	saf6='Street Robbery', 
+	saf7='Theft FROM Vehicle'+'Theft OF Vehicle', 
+	saf8='Violence Other (Non-domestic)'
+
+economy:
+	inf1=inflation
+	mor1=mortgage rate 5 year
